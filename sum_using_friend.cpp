@@ -18,7 +18,6 @@ public:
   void display(){
     cout<<real<<" + "<< imag<<"i"<<endl;
   }
-
 };
 
 Complex sum(Complex c1, Complex c2){
